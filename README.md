@@ -6,3 +6,4 @@ https://www.figma.com/proto/iPG71kb15UI17hJj95i9sm/Untitled?node-id=1-2&p=f&t=vI
 avances de codigo de la funcionalidad del sistema de catalogo 
 [Catalogo.zip](https://github.com/user-attachments/files/20676227/Catalogo.zip)
 
+[Informe Sistema de catalogo.pdf](https://github.com/user-attachments/files/20676324/Informe.Sistema.de.catalogo.pdf)
